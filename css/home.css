@@ -320,7 +320,7 @@ margin: 0 auto;
     /* media query for dropdown menu */
     #header-container {
        overflow: hidden;
-        border: 1px solid green;
+        /* border: 1px solid green; */
         position: relative;
         max-height: 120px;
 
@@ -351,18 +351,15 @@ margin: 0 auto;
 
     #header-right{
         display: none; 
-        /* border: 1px solid black; */
         position: absolute;
         right: 5%; 
         left: 5% ;
         bottom: 20px;
         width: 80%;
-        /* padding: 0 65px;  */
         text-align: center;
     }
 
     #header-right a{
-        /* border: 1px solid red; */
         margin: 0 10px;
         font-size: 15px;     
         display: inline-block;  
@@ -370,11 +367,7 @@ margin: 0 auto;
 
 
     
-    /* #test{
-        border: 1px solid red;
-        position: relative;
-       
-    } */
+
 
 
   
