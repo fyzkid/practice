@@ -283,11 +283,12 @@ margin: 0 auto;
     }
 
     #left-box2{
-        height: 190px;
+        height: 200px; 
     }
 
     #image-container, #text-container, #image-container img{
         width: 100%; 
+        
     }
 
     #image-container img{
