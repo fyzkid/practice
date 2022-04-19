@@ -123,8 +123,9 @@ margin: 0 auto;
 
 
 #left-box2{
-    height: 160px;
+    /* height: 160px; */
     border-bottom: 2px solid #717171;
+    margin-bottom: 20px;
 }
 
 .continue{
@@ -132,6 +133,7 @@ margin: 0 auto;
     color:#1792D2;
     text-transform: uppercase;
     font-size: 10px;
+    
 }
 
 .continue:hover{
@@ -165,6 +167,7 @@ margin: 0 auto;
 
 #text-container p{
     margin: 10px 0 10px 0;
+    
 }
 
 /* styling of right container */
@@ -367,7 +370,9 @@ margin: 0 auto;
     }
 
 
-    
+    .continue{
+        margin-top: 10px;
+    }
 
 
 
