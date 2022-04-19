@@ -286,8 +286,9 @@ margin: 0 auto;
     }
 
     #left-box2{
-        height: 200px; 
-    }
+        /* height: 200px;  */
+        padding-bottom: 20px;
+    } 
 
     #image-container, #text-container, #image-container img{
         width: 100%; 
@@ -373,11 +374,7 @@ margin: 0 auto;
     .continue{
         margin-top: 10px;
     }
-
-
-
-  
-    
+   
 
  }
 
